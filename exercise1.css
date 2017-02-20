@@ -1,0 +1,48 @@
+@font-face {
+        font-family: 'ChunkFiveRegular';
+        src: url('fonts/chunkfive.eot');
+    }
+
+.container {
+	width: 800px;
+	margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 1px 9px 12px 5px rgba(0,0,0,0.26);
+    font-family: 'Droid Serif', serif;
+}
+
+li, p li {
+	color: #707070;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+header, footer {
+	text-align: center;
+}
+
+h1 {
+	color: #DB0038; h2 = #3998A3 and h3 = #474747
+}
+
+h2 {
+	color: #3998A3;
+}
+
+h3 {
+	color: #474747;
+}
+
+.hero {
+	background-color: #f4f4f4;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.rating span {
+	color: #F4B400;
+	font-size: 25px;
+}
+
